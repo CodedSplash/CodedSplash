@@ -17,8 +17,8 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SHINOBI-Code)](https://github.com/CodedSplash/CodedSplash)
+### 📊 LeetCode stats
+[![SHINOBI-Code LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SHINOBI-Code&theme=dark)](https://github.com/CodedSplash/CodedSplash)
 
 ---
 
