@@ -16,6 +16,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=CodedSplash&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+
+### 🔝 Top Contributed Repo
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SHINOBI-Code)](https://github.com/CodedSplash/CodedSplash)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=CodedSplash&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
