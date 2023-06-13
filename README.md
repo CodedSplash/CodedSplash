@@ -15,8 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CodedSplash&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-
 # 📊 LeetCode stats
 [![SHINOBI-Code LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SHINOBI-Code&theme=dark)](https://github.com/CodedSplash/CodedSplash)
 
