@@ -17,7 +17,7 @@
 
 ---
 
-### 📊 LeetCode stats
+# 📊 LeetCode stats
 [![SHINOBI-Code LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SHINOBI-Code&theme=dark)](https://github.com/CodedSplash/CodedSplash)
 
 ---
