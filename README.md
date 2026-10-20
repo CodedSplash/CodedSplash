@@ -1,19 +1,99 @@
-# 💫 About Me:
-🔭 Developing pet-projects<br>🤝 I need help with my work<br>🌱 I'm learning frontend right now<br>❤️ I love programming<br>⚡ JavaScript is the best
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=CodedSplash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20JavaScript%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="CodedSplash header" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/CodedSplash">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+CodedSplash+%F0%9F%91%8B;Building+pet-projects+for+fun;Learning+frontend+every+day;JavaScript+is+the+best+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/codedsplash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/og_shinobi_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodedSplash) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25631396) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodedSplash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodedSplash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodedSplash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodedSplash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://discord.gg/codedsplash"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://instagram.com/og_shinobi_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://reddit.com/user/CodedSplash"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://stackoverflow.com/users/25631396"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CodedSplash&style=for-the-badge&color=7F5AF0&label=Profile+views" alt="Profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodedSplash&icon=5&color=1)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+
+```js
+const codedSplash = {
+  focus:      "Frontend development",
+  doing:      "Building pet-projects 🔭",
+  learning:   ["React ecosystem", "TypeScript", "Next.js"],
+  openTo:     "Collaboration & teamwork 🤝",
+  loves:      "Programming ❤️",
+  motto:      "JavaScript is the best ⚡",
+};
+```
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,lua,bash,md&perline=8" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,bootstrap,vite,webpack,babel&perline=8" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongodb,postgres&perline=8" alt="Backend and databases" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,npm,yarn,postman,notion&perline=8" alt="Tools" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,ps,ae,pr,blender,wordpress&perline=8" alt="Design" /></td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>➕ Also working with</b></summary>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+    <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+    <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" />
+    <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" />
+    <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+    <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" alt="Nodemon" />
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
+    <img src="https://img.shields.io/badge/Airbnb_Style-FF5A5F?style=flat-square&logo=airbnb&logoColor=white" alt="Airbnb Style Guide" />
+    <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
+  </p>
+</details>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodedSplash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7F5AF0&title_color=A78BFA&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedSplash&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CodedSplash&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=2CB67D&currStreakLabel=A78BFA" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodedSplash&bg_color=0D1117&color=A78BFA&line=7F5AF0&point=2CB67D&area=true&area_color=7F5AF0&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" width="100%" alt="footer" />
+</p>
